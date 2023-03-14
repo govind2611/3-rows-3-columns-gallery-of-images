@@ -1,0 +1,12 @@
+img {
+  width: 20vw;
+  height: 20vh;
+  
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
